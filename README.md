@@ -23,7 +23,7 @@ Posts<br>
 Followers<br>
 Average Likes<br>
 60-Day Engagement Rate<br>
-New Post Average Likes<brr>
+New Post Average Likes<br>
 Total Likes<b>
 Country<br>
 
