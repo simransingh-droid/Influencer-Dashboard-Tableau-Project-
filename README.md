@@ -1,7 +1,7 @@
 # Influencer-Dashboard-Tableau-Project-
 Project Overview : This project analyzes Instagram influencer data to uncover insights related to engagement, followers, and regional performance. The dashboard helps identify high-performing influencers for marketing strategies.
 
-🎯 Objectives
+🎯 Objectives</n>
 Analyze influencer engagement patterns.<br>
 Identify top influencers based on performance.<br>
 Compare country-wise influencer distribution.<br>
