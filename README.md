@@ -2,15 +2,16 @@
 Project Overview : This project analyzes Instagram influencer data to uncover insights related to engagement, followers, and regional performance. The dashboard helps identify high-performing influencers for marketing strategies.
 
 🎯 Objectives
-Analyze influencer engagement patterns
-Identify top influencers based on performance
-Compare country-wise influencer distribution
-Study relationship between followers and likes
-Detect growth trends in engagement
+Analyze influencer engagement patterns.<br>
+Identify top influencers based on performance.<br>
+Compare country-wise influencer distribution.<br>
+Study relationship between followers and likes.<br>
+Detect growth trends in engagement.<br>
+
 🛠 Tools Used
 Tableau Desktop
-Excel / CSV
-SQL (optional)
+CSV
+
 📁 Dataset Description
 
 The dataset contains the following fields:
