@@ -75,6 +75,7 @@ Track rising influencers for early partnerships.<br>
 
 This project demonstrates how data analytics can help optimize influencer marketing strategies using interactive dashboards.
 <br>
-🚀 Author<br>
 
+
+🚀 Author<br>
 Simran Singh.
