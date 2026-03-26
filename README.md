@@ -1,81 +1,102 @@
-# Influencer-Dashboard-Tableau-Project
-Project Overview : This project analyzes Instagram influencer data to uncover insights related to engagement, followers, and regional performance. The dashboard helps identify high-performing influencers for marketing strategies.
+# 📊 Instagram Influencer Dashboard (Tableau Project)
 
-🎯 Objectives<br>
-Analyze influencer engagement patterns.<br>
-Identify top influencers based on performance.<br>
-Compare country-wise influencer distribution.<br>
-Study relationship between followers and likes.<br>
-Detect growth trends in engagement.<br>
+## 🔍 Project Overview
 
-🛠 Tools Used<br>
-Tableau Desktop<br>
-CSV<br>
+This project analyzes Instagram influencer data to uncover insights related to engagement, followers, and regional performance. The dashboard helps identify high-performing influencers for marketing strategies.
 
-📁 Dataset Description<br>
+---
 
-The dataset contains the following fields:<br>
+## 🎯 Objectives
 
-Rank<br>
-Influencer Name (channel_info)<br>
-Influence Score<br>
-Posts<br>
-Followers<br>
-Average Likes<br>
-60-Day Engagement Rate<br>
-New Post Average Likes<br>
-Total Likes<br>
-Country<br>
+* Analyze influencer engagement patterns
+* Identify top influencers based on performance
+* Compare country-wise influencer distribution
+* Study relationship between followers and likes
+* Detect growth trends in engagement
 
-🧹 Data Cleaning<br>
-Converted text values (k, m, b) into numeric format.<br>
-Standardized percentage fields.<br>
-Handled missing values in country.<br>
-Created calculated fields for better analysis.<br>
+---
 
+## 🛠 Tools Used
 
-📊 Key KPIs<br>
-Total Influencers<br>
-Total Followers<br>
-Average Engagement Rate<br>
-Overall Average Likes per Post<br>
+* Tableau Desktop
+* Excel / CSV)
 
+---
 
-📈 Dashboard Features<br>
-Top 10 Influencers Analysis<br>
-Followers vs Likes Scatter Plot<br>
-Country-wise Distribution Map<br>
-Engagement Rate Comparison<br>
-Growth Trend Analysis<br>
+## 📁 Dataset Description
 
+The dataset contains the following fields:
 
-🔍 Key Insights<br>
-High followers do not always mean high engagement.<br>
-Micro-influencers show better engagement rates.<br>
-Engagement varies significantly across countries.<br>
-Growth trends highlight emerging influencers<br>
+* Rank
+* Influencer Name (channel_info)
+* Influence Score
+* Posts
+* Followers
+* Average Likes
+* 60-Day Engagement Rate
+* New Post Average Likes
+* Total Likes
+* Country
 
-💡 Business Recommendations<br>
-Focus on engagement rate over follower count.<br>
-Collaborate with micro-influencers for better ROI.<br>
-Target high-engagement regions.<br>
-Track rising influencers for early partnerships.<br>
+---
 
+## 🧹 Data Cleaning
 
-📷 Dashboard Preview<br>
+* Converted text values (K, M, B) into numeric format
+* Standardized percentage fields
+* Handled missing values in country
+* Created calculated fields for better analysis
 
- <img width="1840" height="933" alt="Screenshot 2026-03-23 200934" src="https://github.com/user-attachments/assets/820eba5a-e5ed-4491-b565-fc5749602f52" />
-<img width="1896" height="958" alt="Screenshot 2026-03-23 200921" src="https://github.com/user-attachments/assets/826057dc-da09-4f07-8b46-a2e6be8a4520" />
+---
 
+## 📊 Key KPIs
 
+* Total Influencers
+* Total Followers
+* Average Engagement Rate
+* Average Likes per Post
+* Total Likes
+
+---
+
+## 📈 Dashboard Features
+
+* Top 10 Influencers Analysis
+* Followers vs Likes Scatter Plot
+* Country-wise Distribution Map
+* Engagement Rate Comparison
+* Growth Trend Analysis
 
 
 
-📌 Conclusion<br>
+---
+
+## 💡 Business Recommendations
+
+* Focus on engagement rate over follower count
+* Collaborate with micro-influencers for better ROI
+* Target high-engagement regions
+* Track rising influencers for early partnerships
+
+---
+
+## 📷 Dashboard Preview
+<img width="1840" height="933" alt="Screenshot 2026-03-23 200934" src="https://github.com/user-attachments/assets/aea5d1e3-30d3-4115-ae77-9306d06c19dd" />
+---
+
+<img width="1896" height="958" alt="Screenshot 2026-03-23 200921" src="https://github.com/user-attachments/assets/4ce9bce7-ccbb-4fbc-9f40-2dfdc82549dc" />
+
+
+
+---
+
+## 📌 Conclusion
 
 This project demonstrates how data analytics can help optimize influencer marketing strategies using interactive dashboards.
-<br>
 
+---
 
-🚀 Author<br>
-Simran Singh.
+## 🚀 Author
+
+Simran Singh
+
